@@ -6,8 +6,3 @@ run the following commands for this project:
 4. npm install --save moment
 5. npm install --save react-native-keyboard-aware-scroll-view
 
-
-
-
-6. npm install --save react-native-gesture-handler
-7. react-native link react-native-gesture-handler
